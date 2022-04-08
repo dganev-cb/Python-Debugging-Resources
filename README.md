@@ -7,6 +7,7 @@ All the resources regarding Python Debugging
 - [Talk: Nina Zakharenko - Goodbye Print, Hello Debugger!](https://www.youtube.com/watch?v=5AYIe-3cD-s)
 - [python debugger crash course: pdb / breakpoint (beginner - intermediate) anthony explains #097](https://www.youtube.com/watch?v=0LPuG825eAk)
 - [Advanced Python Debugging Techniques Using GDB](https://www.youtube.com/watch?v=rB9rPdMRxIA)
+- [Running Aground: Debugging Docker in Production](https://www.youtube.com/watch?v=AdMqCUhvRz8)
 
 ## Tools
 
@@ -28,3 +29,4 @@ All the resources regarding Python Debugging
 - [Debugging Django](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
 - [Debuggin Wikipedia](https://en.wikipedia.org/wiki/Debugging)
 - [Debugging of CPython processes with gdb](https://www.podoliaka.org/2016/04/10/debugging-cpython-gdb/)
+- [Adventures in Python Core Dumping](https://gist.github.com/toolness/d56c1aab317377d5d17a)
