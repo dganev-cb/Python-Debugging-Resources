@@ -23,7 +23,7 @@ All the resources regarding Python Debugging
 
 ## Articles
 
-- [Ultiamte Guide to Python Debugging](https://towardsdatascience.com/ultimate-guide-to-python-debugging-854dea731e1b)
+- [Ultimate Guide to Python Debugging](https://towardsdatascience.com/ultimate-guide-to-python-debugging-854dea731e1b)
 - [Debug Python within a container](https://code.visualstudio.com/docs/containers/debug-python)
 - [Debugging Django](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
 - [Debuggin Wikipedia](https://en.wikipedia.org/wiki/Debugging)
