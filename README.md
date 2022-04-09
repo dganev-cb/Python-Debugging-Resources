@@ -6,6 +6,7 @@ All the resources regarding Python Debugging
 
 - [Talk: Nina Zakharenko - Goodbye Print, Hello Debugger!](https://www.youtube.com/watch?v=5AYIe-3cD-s)
 - [python debugger crash course: pdb / breakpoint (beginner - intermediate) anthony explains #097](https://www.youtube.com/watch?v=0LPuG825eAk)
+- [debugging python segfaults with gdb (intermediate - advanced) anthony explains #208](https://www.youtube.com/watch?v=bXEXE6ywzSA)
 - [Advanced Python Debugging Techniques Using GDB](https://www.youtube.com/watch?v=rB9rPdMRxIA)
 - [Running Aground: Debugging Docker in Production](https://www.youtube.com/watch?v=AdMqCUhvRz8)
 
